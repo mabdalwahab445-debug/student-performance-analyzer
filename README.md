@@ -1,6 +1,6 @@
 
 # Student Performance Analyzer (SPA)
-
+![Student Grades Chart](grades_plot.jpg) 
 A simple Python project that analyzes student grades, calculates statistics, and generates a plot.
 
 ## Features
